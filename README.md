@@ -1,4 +1,4 @@
-Gestor de Tareas Pendientes (ToDo)
+*Gestor de Tareas Pendientes (ToDo)*
 Este es un proyecto de una aplicación web para la gestión de tareas, creada como ejercicio técnico. La aplicación permite a los usuarios crear, listar, modificar y eliminar tareas.
 
 Características principales
